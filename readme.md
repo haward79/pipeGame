@@ -19,6 +19,12 @@ Compile this game by Processing IDE or get compiled binary files from another co
 
 *Note: Because the puzzle is generated randomly, the number of solution may be zero, one, or more than one.*
 
+# Snapshots
+
+![Snapshot 1](Snapshots/1.png)
+![Snapshot 2](Snapshots/2.png)
+![Snapshot 3](Snapshots/3.png)
+
 # Copyright
 Download the sources and enjoy it! This software is able to be used for commercial.
 
